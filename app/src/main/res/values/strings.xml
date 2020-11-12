@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string-array name="CurrencyCode">
+        <item>USD</item>
+        <item>GBP</item>
+        <item>INR</item>
+        <item>EUR</item>
+        <item>NOK</item>
+        <item>CNY</item>
+        <item>PHP</item>
+        <item>RUB</item>
+        <item>HKD</item>
+        <item>ILS</item>
+        <item>IDR</item>
+        <item>DKK</item>
+        <item>CHF</item>
+        <item>MXN</item>
+        <item>CZK</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>HRK</item>
+        <item>MYR</item>
+
+    </string-array>
+
+</resources>
